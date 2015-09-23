@@ -1,6 +1,7 @@
-#Introduction to Paradigms of Computer Programming
+#Paradigms of Computer Programming
 Sept 21 2015 &mdash; Nov 3 2015
-**sowing conceptual seeds of computer science**
+
+**sowing the conceptual seeds of computer science**
 
 ```
 Functional Programming (and basic data structures) __
