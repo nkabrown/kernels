@@ -14,5 +14,5 @@ what are my learning objectives?
 
 FUNCTIONAL PROGRAMMING
 
-All of the functional programming concepts: declarative varaibles, function definition, function
+All of the functional programming concepts: declarative variables, function definition, function
 composition, recursion, conditionals.
