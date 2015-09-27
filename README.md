@@ -25,4 +25,5 @@ concepts covered:
 + functional programming
 
 key to success:
+
 ![success is support plus curiosity](images/support.jpg 'fearless in the face of complexity')
