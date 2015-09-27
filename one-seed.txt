@@ -8,14 +8,28 @@ language independent approach. We skip a discussion of values and immediately
 move to the world of variables.
 
 What is a variable? Very succinctly it's a shortcut to a value and it saves
-programmers from having to remember and retype values. But where do you begin to
-try to understand the ins & outs of variables? I'm going to start with
-assignment because all three fundamental concepts that underlie the word
-'variable' are involved in assignment. *Assignment through the environment binds
-an identifier to a variable in memory.* First, create a seperation to divide
+programmers from having to remember and retype values. Variables are a way for
+programmers to reduce redundancy in their programs.
+
+But where do you begin to try to understand the ins & outs of variables? I'm going to start with
+variable declaration because all three fundamental concepts that underlie the word
+'variable' are involved in variable creation. *Variable declaraton through the
+environment binds an identifier to a variable in memory.* First, let's create a seperation to divide
 variables in memory from identifiers and environments. The variable in memory
 remains invisible to the programmer while the identifiers and environments
-become the programmer's tools to interact with the variables in the store.
+become the programmer's tools to interact with these invisible store variables.
+The variable in memory is used to store a value.  Remember depending on the
+computation model being followed variables in memory can have different
+properties. Variable identifiers are our means of accessing the variables in
+memory. On variable creation the identifier is associated with the variable in
+memory by the environment which links them together. The environment is a
+function that maps an identifier to a store variable and its bound value. E(X) =
+x. 'The program region in which an identifier refers to a particular variable is
+called the scope of the identifier. Outside of the scope the identifier does not
+mean the same thing.' 'The scope of an identifier occurance is that part of the
+program text for which the occurance corresponds to the same variable
+declaration.' Scope is an issue for the programmer because the same identifier
+can reference different values in different parts of the program.
 
 Is using the container metaphor for variables a 'concept' smell? Dividng
 identifiers and environments from variables in memory helps deflect that

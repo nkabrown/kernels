@@ -1,0 +1,18 @@
+LEARNING STRATEGIES
+
+use prompts for recall practice:
+
+  + css rule set
+  + css dimensions
+  + css relative and absolute length units
+  + css percentage units
+
+place a list of prompts on an index card and engage in retrieval practice on
+commute
+
+what are my learning objectives?
+
+FUNCTIONAL PROGRAMMING
+
+All of the functional programming concepts: declarative varaibles, function definition, function
+composition, recursion, conditionals.
