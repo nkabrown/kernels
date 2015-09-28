@@ -12,7 +12,19 @@ commute
 
 what are my learning objectives?
 
+build a strong knowledge base because it can enable future creativity
+  '...we would argue that a strong knowledge base is a prerequisite to being
+  creative in a particular domain. A student is unlikely to make creative
+  discoveries in any subject without a comprehensive set of facts and concepts at
+  his or her command. There is no necessary conflict in learning concepts and
+  facts and in thinking creatively; the two are symbiotic.' Roediger & Pyc 2012
+
+3 general principles of effective learning
+  + distribution of material and practice
+  + frequent assessment of learning
+  + explanatory questioning
+
 FUNCTIONAL PROGRAMMING
 
-All of the functional programming concepts: declarative variables, function definition, function
-composition, recursion, conditionals.
+All of the functional programming concepts: declarative variables, function
+definition, function composition, recursion, conditionals.
