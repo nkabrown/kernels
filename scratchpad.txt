@@ -24,6 +24,9 @@ build a strong knowledge base because it can enable future creativity
   + frequent assessment of learning
   + explanatory questioning
 
+'Education is about learning new skills and increasing your capacity for doing
+things.' Devlin 2012
+
 FUNCTIONAL PROGRAMMING
 
 All of the functional programming concepts: declarative variables, function

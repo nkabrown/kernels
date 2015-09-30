@@ -37,3 +37,24 @@ identifiers and environments from variables in memory helps deflect that
 question. If variables are a shortcut to values then we can focus on values and
 the tools that allow us to reach them. Those tools are identifiers and
 environments, neither of which 'contain' variables.
+
+functions
+
+Just as the concept of variables allows you to avoid redundancy, the concept of
+functions allow you to avoid repitition. Functions are the standard unit of code
+reuse. In the terminology of this course functions are shortcuts for program
+code to execute and as a shortcut to values functions can be bound to a variable
+as well.
+
+How do we build a program out of functions? Function composition allows us to
+create functions that call other functions and enable us to build ever deeper
+layers into programs based on these smaller components.
+
+'You have a function f that takes an argument of type A and returns a B. You
+have another function g that takes a B and returns a C. You can compose them by
+passing the result of f to g. You have just defined a new function that takes an
+A and returns a C.
+
+In math, such a composition is denoted by a small circle between functions: g∘f.
+Notice the right to left order of composition....It helps if you read g∘f as "g
+after f."' Bartosz Milewski
