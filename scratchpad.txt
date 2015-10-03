@@ -1,4 +1,12 @@
+'Programming is the act of extending or changing a system's functionality.'
+CTMCP
+
+'Composition is the essence of programming.' Bartosz Milewski
+
 LEARNING STRATEGIES
+
+Functional JavaScript by Michael Fogus seems an excellent followup to this
+class.
 
 use prompts for recall practice:
 
@@ -19,6 +27,8 @@ build a strong knowledge base because it can enable future creativity
   his or her command. There is no necessary conflict in learning concepts and
   facts and in thinking creatively; the two are symbiotic.' Roediger & Pyc 2012
 
+make my focus understanding the new concepts and ideas.
+
 3 general principles of effective learning
   + distribution of material and practice
   + frequent assessment of learning
@@ -27,7 +37,21 @@ build a strong knowledge base because it can enable future creativity
 'Education is about learning new skills and increasing your capacity for doing
 things.' Devlin 2012
 
+'If you can't solve a problem by looking for a template to follow, a formula to
+plug some numbers into, or a procedure to apply, what do you do? The answer is
+you think about the problem. Not the form it has, but what it actually says.'
+Devlin 2012
+
+'Our relationship to concepts thus should mirror that to other persons....For
+that to happen, and for us to inhabit concepts as living frameworks with a deep
+history, rather than occasionally wielding them as tools...also means to
+conceive rationality not as a correlate of self-possession but of what, echoing
+Hegel, Gadamer calls "recognition."' Thomas Pfau 2013
+
 FUNCTIONAL PROGRAMMING
 
 All of the functional programming concepts: declarative variables, function
 definition, function composition, recursion, conditionals.
+
+'The dramatic growth in mathematics led in the 1980s to the emergence of a new
+definition of mathematics as the science of patterns.' Devlin 2012
